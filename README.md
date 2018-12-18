@@ -1,2 +1,0 @@
-# terakoya
-Created with CodeSandbox
